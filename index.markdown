@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: home
 ---
 
 # Osteopatia Recife
 
 Na zona sul ou na zona norte eu cuido de você.
+
+<a href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife.">
+  ![Marque sua sessão via WhatsApp]({{site.baseurl}}/assets/images/botao-whatsapp-marque-sua-sessao.png "Marque sua sessão via WhatsApp")
+</a>
 
 # Serviços
 
@@ -51,7 +55,7 @@ A atuação da osteopatia na pediatria é feita por meio de técnicas de mobiliz
 
 A gestação é um período de muitas mudanças corporais, toda mulher tem condições de ter uma gestação saudável e sem dores, mas diante de tantas alterações que um corpo passa para gerar uma criança a osteopatia se torna um aliado para equilibrar o corpo da mãe, facilitando e ajustando sua estrutura corporal para receber da melhor formas todas as mudanças e cargas que uma gestação exige.
 
-### Plano gestante:
+### Plano gestante
 
 8 consultas que vão trabalhar seu corpo todo para permitir a melhor gestação e parto possíveis. Esse programa conta com uma avaliação minuciosa e com um tratamento que passa desde os enjoos e vai até a preparação do assoalho pélvico para a hora do parto e ainda inclui sessões com a presença do pai para receber as orientações sobre trabalho de parto.
 
@@ -67,11 +71,14 @@ Fonte: [http://www.terapiacraniosacral.com.br](http://www.terapiacraniosacral.co
 
 ## Medicina germânica 
 
-A Nova Medicina Alemã (GNM) compreende as descobertas do médico alemão Dr. Ryke Geer Hamer. O Dr. Hamer descobriu as CINCO LEIS BIOLÓGICAS que explicam as causas, o desenvolvimento e a cura natural das “doenças” com base em princípios biológicos naturais. De acordo com tais leis biológicas, as chamadas “doenças” não são, como geralmente se supõe, resultantes de disfunção ou de alguma malignidade do organismo; ao contrário, elas são consideradas “PROGRAMAS ESPECIAIS COM SIGNIFICADO BIOLÓGICO” (SBS), criados para ajudar o indivíduo durante um período de aflição emocional e psicológica.
+A Nova Medicina Alemã (GNM) compreende as descobertas do médico alemão Dr. Ryke Geer Hamer. O Dr. Hamer descobriu as CINCO LEIS BIOLÓGICAS que explicam as causas, o desenvolvimento e a cura natural das “doenças” com base em princípios biológicos naturais. De acordo com tais leis biológicas, as chamadas "doenças" não são, como geralmente se supõe, resultantes de disfunção ou de alguma malignidade do organismo; ao contrário, elas são consideradas "PROGRAMAS ESPECIAIS COM SIGNIFICADO BIOLÓGICO" (SBS), criados para ajudar o indivíduo durante um período de aflição emocional e psicológica.
 
 Extraído de: [http://www.LearningGNM.com](http://www.LearningGNM.com)
 
 ## Quem sou eu:
+
+__Danielly Gomes__
+
 - Graduada em Fisioterapia pela Universidade Federal de Pernambuco 
 - Mestre em Fisioterapia pela Universidade Federal de Pernambuco
 - Formação em Osteopatia pelo IDOT (níveis estrutural, postural, visceral e craniano/5 anos)
@@ -81,6 +88,10 @@ Extraído de: [http://www.LearningGNM.com](http://www.LearningGNM.com)
 - Terapia Crânio Sacral (Upledger)
 - Formações na área de drenagem linfática, liberação miofascial, reabilitação vestibular e bandagens terapêuticas. 
 - Atuou como fisioterapeuta motora e respiratória na UTI-neonatal do Hospital Barão de Lucena e professora universitária de anatomia, pediatria e gineco-obstetrícia, pesquisadora do Laboratório de Estudos em Pediatria da UFPE e Sócia da SEVEN Terapias Integradas em Boa viagem.
+
+<a href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife.">
+  ![Marque sua sessão via WhatsApp]({{site.baseurl}}/assets/images/botao-whatsapp-marque-sua-sessao.png "Marque sua sessão via WhatsApp")
+</a>
 
 <script src="https://www.googletagmanager.com/gtag/js?id=AW-366586615"></script>
 
