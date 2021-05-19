@@ -1,11 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+published: true
 ---
 
 # Osteopatia Recife
+
+![Osteopatia no tratamento da COVID-19]({{site.baseurl}}//Captura%20de%20Tela%202021-05-19%20a%CC%80s%2010.27.50.png)
+
+
 
 Na zona sul ou na zona norte eu cuido de você.
 <div class="mb-16">
