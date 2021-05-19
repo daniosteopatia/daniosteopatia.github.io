@@ -5,17 +5,9 @@ published: true
 
 # Osteopatia Recife
 
-![Osteopatia no tratamento da COVID-19]({{site.baseurl}}//Captura%20de%20Tela%202021-05-19%20a%CC%80s%2010.27.50.png)
-
-
+![Osteopatia no tratamento da COVID-19]({{site.baseurl}}/assets/images/teste-osteo.png)
 
 Na zona sul ou na zona norte eu cuido de você.
-<div class="mb-16">
-  <a href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife."
-     class="mb-4 items-center shadow bg-green-500 px-4 py-4 text-white hover:bg-green-400 no-underline inline">
-    <img class="fill-current w-6 h-6 mr-1 mt-0 mb-0 inline" viewBox="0 0 24 24" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAABgAAAAYADwa0LPAAAEe0lEQVRo3u2ZX4hVVRTGv92dSBytGfMPStKYYobgOCjYy0QZBkWRZsaUxTxkFFhgRFJo+WIESVOUURBR4IBivVhmCA0IFlRgOA9hY83UmImXMv9c/43eO78e9r2475597j3n3jP44HxPe85Z61vrW2fP3nvtK41hDNc2TFpEQJukpZKWSJoraaakRkkZSTlJWUmHJR2QtE/S98aYwlVVD0wCNgCHSY7jwDvArKuR+HhgM5CrIXEfl4FPgKm15JJ4CgF3S/pM0q2B1xck/SjpoKR+SWck5SXdWLSfL6ldUlPA95SkF4wx3aNZ+VeAfKCKe4FHgXExODLAvUA3cCnA9TFwfdqJG+D9QLDvgMV18LYAOwO8XwPj0xTQ5QUYAtYBqaxiwHLgPy/GV0BDGuRrPeKTQHtq1bkSZw7Q78XaWi9pG3DRITwNLEo7eSfeDOAPT8TKWskywAGHqADcN1rJO3FvLxaqhONAUy1Ez3iV2Bxh1wqsAlpTFPGEF7srKUEDMOAQ9AE3BOzWFb8MwAVgZooi9jrxz5FkowMe8SrwWMBmMSP3hDdSFNAKDDvcG5M473Ic+4FMwGZ7YP3Ohr5UHSK+cbh/jes0rjgdStgUYTdIGE+mKKDD454Xx+kez6ktwu58hIDdKQqYiD3slfCcb3NdwG+hMz4tqTeCfyDi+bdpCTDG5GQPhiWMKGZIwFxnfMgYMxzBvz/wbJek99ISUMQvznhOHAFTnPFfFYg/koT3bEsFwbXiiDOeFkfABGd8NorVGNMraZv3eEPKyUu2HQ3lFilgyBlXWxLXS/rX+ft+4PmUBbi9QT6OgFPOeFIlZmNMVlKnJHfadAEPpyigyRnn/JchAVlnHGobfRF7JL3sVWwn8HTIHtuNfQ4siynA/cc9UtUaWO2suwXgpjhRgA8Ce8I2YJpjcwflJ80fgIeo0BhRfrx+K04i87wkHogpwAAfBkTkgLeBZdhDYQgHgcYA52zPbkXcRP50nBLdEmAb/wLJMTnA9arz/jLQHDeJLY7judiOV/yXEn1WCmEgwJEBfnNs9iRJYAHlR9nqc28kx0RgI7aHroRhYHXA/ynPblXSBL50nM8DVVekCJ4JQCewzysK2KP6gxHijzp2fQSO9NUCt3vB1tYiwOOcgl1GVwBLopLCXjW66Kgl2HKPZH69AmLGfdaL21MrkbuuHyWlS6wqMTsob1NP1Dp15a0An45y4gZ4ifLlN0/MPShEOMv7jI8HAi4AZqeQ/AzKe/DSyrSmHlJ3HhaAqUVRa7DNfLb4bgi7+95SQ4xmYBNwxkv+EtBZb1W+cAgvMvLOkkDQ3di1u6UC783Ya/hu4GyA5xj294fYMIEgGUn/SEq0+3o4IWlQ0knZrq1RUouk6RV8tkt6sXhEr6v6d1aodB74CXgTWAnsIPyDRxL0AHfVlbQn4DUvwCFgK3bzaQ7Y3wa8DvQmSHoQeJeIK5skCE2hHbJtZY+kHmPM3wnET5e9+lgoabLsNGyQ7a2PSeqT9LMx5vfUKj6GMVzj+B/LlAbIRQRtfQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNS0xOFQwMjo0NDo1MiswMDowMNeaonoAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDUtMThUMDI6NDQ6NTIrMDA6MDCmxxrGAAAAAElFTkSuQmCC" /> <span class="text-white no-underline">Marque sua sessão</span>
-  </a>
-</div>
 
 # Serviços
 
