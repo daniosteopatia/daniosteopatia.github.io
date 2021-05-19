@@ -29,7 +29,7 @@ facebook_username: daniosteopatia
 google_analytics: "AW-366586615"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
