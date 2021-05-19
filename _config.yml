@@ -29,10 +29,9 @@ facebook_username: daniosteopatia
 google_analytics: "AW-366586615"
 
 # Build settings
-theme: jekyll-tailwindui
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-postcss
   - jekyll-seo-tag
 
 # Exclude from processing.
