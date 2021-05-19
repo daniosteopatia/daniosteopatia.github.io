@@ -24,12 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tratamento com Osteopatia em Recife. A osteopatia é uma abordagem com o foco maior na origem da dor e não onde ela está localizada. Nossas especialidades são Osteopatia Pediátrica, Osteopatia para Gestantes e Terapia CranioSacral.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://osteopatiarecife.com" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: daniosteopatia
-facebook_username: daniosteopatia
+instagram_username: dani_osteopatia
+facebook_username: dani_osteopatia
 google_analytics: "AW-366586615"
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

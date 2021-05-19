@@ -1,11 +1,8 @@
 ---
 layout: page
-published: true
 ---
 
 # Osteopatia Recife
-
-![Osteopatia no tratamento da COVID-19]({{site.baseurl}}/assets/images/teste-osteo.png)
 
 Na zona sul ou na zona norte eu cuido de você.
 
@@ -85,4 +82,12 @@ Extraído de: [http://www.LearningGNM.com](http://www.LearningGNM.com)
 - Formações na área de drenagem linfática, liberação miofascial, reabilitação vestibular e bandagens terapêuticas. 
 - Atuou como fisioterapeuta motora e respiratória na UTI-neonatal do Hospital Barão de Lucena e professora universitária de anatomia, pediatria e gineco-obstetrícia, pesquisadora do Laboratório de Estudos em Pediatria da UFPE e Sócia da SEVEN Terapias Integradas em Boa viagem.
 
-<script type="text/javascript" src="{{ base.url | prepend: site.url }}/assets/js/ga_events.js"></script>
+<script src="https://www.googletagmanager.com/gtag/js?id=AW-366586615"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-366586615');
+  gtag('event', 'conversion', {'send_to': 'AW-366586615/TERuCIDV5pYCEPfV5q4B'});
+</script>
