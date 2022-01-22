@@ -27,7 +27,7 @@ url: "http://osteopatiarecife.com" # the base hostname & protocol for your site,
 instagram_username: dani_osteopatia
 
 # Build settings
-theme: minima
+remote_theme: brunnogomes/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

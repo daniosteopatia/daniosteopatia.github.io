@@ -4,9 +4,12 @@ layout: home
 
 ![Danielly Gomes]({{site.baseurl}}/assets/images/logomarca-danielly-gomes.png "Danielly Gomes")
 
-<a href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife.">
+
+<span class="cta_wrapper">
+  <a class="cta_button" href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife.">
   ![Marque sua sessão via WhatsApp]({{site.baseurl}}/assets/images/botao-whatsapp-marque-sua-sessao.png "Marque sua sessão via WhatsApp")
-</a>
+  </a>
+</span>
 
 ## Osteopatia
 
@@ -54,6 +57,8 @@ A atuação da osteopatia na pediatria é feita por meio de técnicas de mobiliz
 ## Osteopatia para gestantes 
 
 A gestação é um período de muitas mudanças corporais, toda mulher tem condições de ter uma gestação saudável e sem dores, mas diante de tantas alterações que um corpo passa para gerar uma criança a osteopatia se torna um aliado para equilibrar o corpo da mãe, facilitando e ajustando sua estrutura corporal para receber da melhor formas todas as mudanças e cargas que uma gestação exige.
+
+![Osteopatia para gestantes]({{site.baseurl}}/assets/images/IMG_6002.jpg "Osteopatia para gestantes")
 
 ### Plano gestante
 
