@@ -117,9 +117,11 @@ Empresarial Wecom Center VI - Junto do Shopping Recife
   ![Localização - Mapa]({{site.baseurl}}/assets/images/mapa.png "Localização - Mapa")
 </a>
 
-<a href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife.">
+<span class="cta_wrapper">
+  <a class="cta_button" href="https://wa.me/5581998739946?text=Gostaria%20de%20marcar%20uma%20sess%C3%A3o.%20Conheci%20atrav%C3%A9s%20do%20site%20Osteopatia%20Recife.">
   ![Marque sua sessão via WhatsApp]({{site.baseurl}}/assets/images/botao-whatsapp-marque-sua-sessao.png "Marque sua sessão via WhatsApp")
-</a>
+  </a>
+</span>
 
 <script src="https://www.googletagmanager.com/gtag/js?id=AW-366586615"></script>
 
